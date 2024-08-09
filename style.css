@@ -1,0 +1,48 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 100%;
+    /* height: 100vh; */
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+#grey {
+    height: 200px;
+    width: 200px;
+    font-size: 50px;
+    border: 2px solid black;
+    background-color: gray;
+}
+#pink {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: pink;
+}
+#blue {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: blue;
+}
+#yellow {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: yellow;
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 80px;
+}
